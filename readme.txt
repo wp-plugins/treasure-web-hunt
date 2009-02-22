@@ -4,7 +4,7 @@ Donate link: http://www.xgear.info/
 Tags: seo, incoming links, free advertise, game, online, visibility
 Requires at least: 2.1
 Tested up to: 2.7.1
-Stable tag: 0.2
+Stable tag: 0.3
 
 Treasure Web Hunt is a simple game that brings visits to your website. A random treasure will appear on your website an people came on your website to collect it.
 
@@ -22,8 +22,14 @@ Adding a treasure to the list is very simple too:
 * Install this plugin
 * Go to the option page to get and insert a free Treasurewebhunt.com Code
 
-Your webiste must have the plugin active, a "keep alive" procedure verify if your plugin shows up on your site and mantain active the link on Treasurewebhunt.com. If your treasure doesn't show up for 3 days the link will be removed.
-You must upgrade to versione 0.2 or greater to keep your link "alive".
+Your webiste must have the plugin active, a "keep alive" procedure verifies if your plugin shows up on your site and mantain active the link on Treasurewebhunt.com. If your treasure doesn't show up for 3 days the link will be removed.
+You must upgrade to version 0.2 or greater to keep your link "alive".
+
+New in this version (0.3):
+
+* Treasurewebhunt.com Code validation in the plugin option page.
+* Select your treasure icon!
+* Solved erroneous styles of the treasure icon.
 
 All done! 
 Enjoy yourself!
